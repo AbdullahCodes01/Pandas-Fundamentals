@@ -1,0 +1,15 @@
+EmpID,Name,Department,City,Gender,Salary,Experience
+101,Arman,IT,Delhi,Male,60000,2
+102,Riya,HR,Mumbai,Female,45000,1
+103,Kunal,IT,Delhi,Male,72000,5
+104,Sneha,Finance,Pune,Female,68000,4
+105,Vikram,HR,Mumbai,Male,50000,2
+106,Pooja,IT,Delhi,Female,58000,3
+107,Rahul,Finance,Pune,Male,75000,7
+108,Neha,HR,Delhi,Female,52000,2
+109,Arjun,IT,Mumbai,Male,40000,1
+110,Simran,Finance,Pune,Female,69000,6
+111,Kabir,IT,Delhi,Male,62000,3
+112,Aisha,HR,Mumbai,Female,48000,2
+113,Rohit,IT,,Male,61000,3
+114,Sara,Finance,Pune,Female,70000,5

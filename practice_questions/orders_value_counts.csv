@@ -1,0 +1,13 @@
+OrderID,City,Category,Payment_Method,Order_Status
+1,Delhi,Electronics,UPI,Delivered
+2,Mumbai,Clothing,Card,Delivered
+3,Delhi,Electronics,COD,Cancelled
+4,Pune,Clothing,UPI,Delivered
+5,Mumbai,Electronics,Card,Returned
+6,Delhi,Grocery,UPI,Delivered
+7,Pune,Grocery,COD,Delivered
+8,Mumbai,Clothing,UPI,Delivered
+9,Delhi,Electronics,Card,Delivered
+10,Pune,Electronics,UPI,Cancelled
+11,Delhi,Clothing,COD,Delivered
+12,Mumbai,Grocery,UPI,Delivered
